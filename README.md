@@ -4,7 +4,7 @@ Resources for HP Probook 430 G3 to run macOS
  ## This project is still in maintenance, feel free to create an issue incase you face any difficulty! ##
 
 - Bootloader version: Opencore 0.9.3
-- macOS version: macOS Sonoma Developer Beta 1
+- macOS version: macOS Ventura 13.4.1
 ![Oops, you are not supposed to see this!](https://lookimg.com/images/2023/07/05/QGUgVE.png)
 
 
