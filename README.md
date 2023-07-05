@@ -1,7 +1,7 @@
 Resources for HP Probook 430 G3 to run macOS
 ============================================
 
- ## This project is still in maintenance, feel free to create an issue incase you face any difficulty!##
+ ## This project is still in maintenance, feel free to create an issue incase you face any difficulty! ##
 
 - Bootloader version: Opencore 0.9.3
 - macOS version: macOS Sonoma Developer Beta 1
@@ -9,7 +9,7 @@ Resources for HP Probook 430 G3 to run macOS
 
 
 
-#### What works
+#### Working Normally
 - iGPU acceleration (Intel HD 520)
 - Sleep
 - Battery Percentage
@@ -27,7 +27,7 @@ Resources for HP Probook 430 G3 to run macOS
 - iMessage
 - Facetime
 
-####  Doesn't work
+#### Isn't work
 - Built-In Realtek Wifi+Bluetooth (*unsupported*)
 
 #### Specs
@@ -36,7 +36,7 @@ Resources for HP Probook 430 G3 to run macOS
 |----------------|------------------------------------------------------------------|
 | **CPU**        | `Intel Core i5-6200U ` 
 | **iGPU**       | `Intel HD Graphics 520 `                                         |
-| **Audio**      | `Conexant 20724 - layout 3`                                      |
+| **Audio**      | `Conexant 20724 - Layout ID 3`                                      |
 | **Ethernet**   | `Realtek RTL8111/8168`                                           |
 | **OS**         | `Ventura 13.4.1`
 
