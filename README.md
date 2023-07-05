@@ -16,7 +16,7 @@ Resources for HP Probook 430 G3 to run macOS
 - Display Brightness
 - USB ports
 - Internal Camera
-- Audio with mute button (Both internal speakers and Microphone) (cx20724)
+- Audio with mute button (Both internal speakers and Microphone) (CX20724)
 - Native Power Management/(Also with cpufriend)
 - SMBus Controller
 - CPU Temperature Monitoring
@@ -27,7 +27,7 @@ Resources for HP Probook 430 G3 to run macOS
 - iMessage
 - Facetime
 
-#### What doesn't work
+####  Doesn't work
 - Built-In Realtek Wifi+Bluetooth (*unsupported*)
 
 #### Specs
