@@ -1,11 +1,11 @@
 Resources for HP Probook 430 G3 to run macOS
 ============================================
 
- ## This project is still in maintenance, feel free to create an issue incase you face any difficulty!
+ ## This project is still in maintenance, feel free to create an issue incase you face any difficulty!##
 
 - Bootloader version: Opencore 0.9.3
 - macOS version: macOS Sonoma Developer Beta 1
-![Oops!There was supposed to be an image here](https://i.imgur.com/rpNvDF9.png)
+![Oops, you are not supposed to see this!](https://lookimg.com/images/2023/07/05/QGUgVE.png)
 
 
 
@@ -34,11 +34,11 @@ Resources for HP Probook 430 G3 to run macOS
 
 | Component      | Brand                                                            |
 |----------------|------------------------------------------------------------------|
-| **CPU**        | `Intel Core i5-6200U ` |   
+| **CPU**        | `Intel Core i5-6200U ` 
 | **iGPU**       | `Intel HD Graphics 520 `                                         |
 | **Audio**      | `Conexant 20724 - layout 3`                                      |
 | **Ethernet**   | `Realtek RTL8111/8168`                                           |
-| **OS**         | `macOS Sonoma Developer Beta 1`
+| **OS**         | `Ventura 13.4.1`
 
 #### Making the Three Finger Gestures Work
 
@@ -67,7 +67,7 @@ Resources for HP Probook 430 G3 to run macOS
 #### Important
 - In the config.plist, section `PlatformInfo > Generic`, the following fields are currently edited with CHANGEME. Please generate your own serial. (Reccommended SMBIOS : MacBookPro14,1 for macOS Monterey and below, MacBookPro15,1 for Ventura and above) 
 
-- This repo can be helpful for other HP Probook/Elitebook series notebooks
+- This repo can be helpful for other HP Probook/Elitebook series notebooks (May Vary)
  
 ### Bios Configuration
 
@@ -91,7 +91,7 @@ Resources for HP Probook 430 G3 to run macOS
 - Wake on USB
 
 #### WI-FI
-- Intel WIFI Cards can be made to work using [Airportitwlm](https://github.com/OpenIntelWireless/itlwm). More Details about this [Here](https://dortania.github.io/Anti-Hackintosh-Buyers-Guide/Wireless.html).
+- Intel WIFI Cards can be made to work using [Airporttlwm](https://github.com/OpenIntelWireless/itlwm). More Details about this [Here](https://dortania.github.io/Anti-Hackintosh-Buyers-Guide/Wireless.html).
 
 #### Having Problems?
 Create an issue and I'll try to help as many as I can
