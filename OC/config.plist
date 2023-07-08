@@ -1283,23 +1283,23 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02843300GUJP4FA8</string>
+			<string>CHANGEME</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
 			<integer>1537</integer>
 			<key>ROM</key>
-			<data>cPCHf0Rb</data>
+			<data>CHANGEME</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>MacBookPro15,1</string>
+			<string>CHANGEME</string>
 			<key>SystemSerialNumber</key>
-			<string>C02XLUZ4KGYG</string>
+			<string>CHANGEME</string>
 			<key>SystemUUID</key>
-			<string>BDCC66E4-892B-4D6E-92F6-712A8A0B716A</string>
+			<string>CHANGEME</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
