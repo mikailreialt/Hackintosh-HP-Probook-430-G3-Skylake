@@ -7,6 +7,8 @@ Resources for HP Probook 430 G3 to run macOS
 - macOS version: macOS Ventura 13.4.1
 ![Oops, you are not supposed to see this!](https://lookimg.com/images/2023/07/05/QGUgVE.png)
 
+#### WI-FI
+- Intel WIFI Cards can be made to work using [Airporttlwm](https://github.com/OpenIntelWireless/itlwm). More Details about this [Here](https://dortania.github.io/Anti-Hackintosh-Buyers-Guide/Wireless.html).
 
 
 #### Working Normally
@@ -90,8 +92,6 @@ Resources for HP Probook 430 G3 to run macOS
 - Wake when lid is opened
 - Wake on USB
 
-#### WI-FI
-- Intel WIFI Cards can be made to work using [Airporttlwm](https://github.com/OpenIntelWireless/itlwm). More Details about this [Here](https://dortania.github.io/Anti-Hackintosh-Buyers-Guide/Wireless.html).
 
 #### Having Problems?
 Create an issue and I'll try to help as many as I can
@@ -102,3 +102,4 @@ Create an issue and I'll try to help as many as I can
 - [Krazy-Killa](https://github.com/Krazy-Killa) for the Three finger gestures
 - [dortania](https://github.com/dortania) for its detailed guides
 - [Corpnewt](https://github.com/CorpNewt) for [USBMap](https://github.com/corpnewt/USBMap)
+- [Human79](https://github.com/Human79) for [Building This!](https://github.com/Human79/macOS-HP-Probook-430-G3-Resources)
