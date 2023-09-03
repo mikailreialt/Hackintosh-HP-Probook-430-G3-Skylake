@@ -57,14 +57,14 @@ Resources for HP Probook 430 G3 to run macOS
 
 #### To Do
 - ~~Add pci devices in system information~~  *done*
-- macOS Powerchime (*I don't know what I will do, if you have any suggestions,create an issue*)
+- ~~macOS Powerchime~~*done*
 - ~~Real Time Clock Loss (RTC)~~ *done*
 - ~~Battery Cycle count~~ *Fixed by updating to the Latest Bios*
 - ~~Fan Speed Monitoring~~ *done*
 - Let me know more 
 
 #### Benchmarks
-- Geekbench 5 [Multi-core and Single core](https://browser.geekbench.com/v5/cpu/8013906)
+- Geekbench 5 (Not Up to Date!) [Multi-core and Single core](https://browser.geekbench.com/v5/cpu/8013906)
 
 #### Important
 - In the config.plist, section `PlatformInfo > Generic`, the following fields are currently edited with CHANGEME. Please generate your own serial. (Reccommended SMBIOS : MacBookPro14,1 for macOS Monterey and below, MacBookPro15,1 for Ventura and above) 
