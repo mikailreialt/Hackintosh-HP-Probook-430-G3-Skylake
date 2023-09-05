@@ -1,14 +1,14 @@
 Resources for HP Probook 430 G3 to run macOS
 ============================================
 
- ## This project is still in maintenance, feel free to create an issue incase you face any difficulty! ##
+ ## Still In Maintenance! Update Only OC!! ##
 
-- Bootloader version: Opencore 0.9.3
-- macOS version: macOS Ventura 13.4.1
+- Bootloader version: Opencore 0.9.4
+- macOS version: macOS Ventura 13.4.1 (Can Be Sonoma)
 ![Oops, you are not supposed to see this!](https://lookimg.com/images/2023/07/05/QGUgVE.png)
 
 #### WI-FI
-- Intel WIFI Cards can be made to work using [Airporttlwm](https://github.com/OpenIntelWireless/itlwm). More Details about this [Here](https://dortania.github.io/Anti-Hackintosh-Buyers-Guide/Wireless.html).
+- Intel WIFI Cards can be made to work using [Airportlwm](https://github.com/OpenIntelWireless/itlwm). More Details about this [Here](https://dortania.github.io/Anti-Hackintosh-Buyers-Guide/Wireless.html).
 
 
 #### Working Normally
@@ -16,7 +16,7 @@ Resources for HP Probook 430 G3 to run macOS
 - Sleep
 - Battery Percentage
 - Display Brightness
-- USB ports
+- USB ports (You Maybe have to map a new one yourself!)
 - Internal Camera
 - Audio with mute button (Both internal speakers and Microphone) (CX20724)
 - Native Power Management/(Also with cpufriend)
@@ -66,13 +66,12 @@ Resources for HP Probook 430 G3 to run macOS
 #### Benchmarks
 - Geekbench 5 (Not Up to Date!) [Multi-core and Single core](https://browser.geekbench.com/v5/cpu/8013906)
 
-#### Important
+#### Important !!!
 - In the config.plist, section `PlatformInfo > Generic`, the following fields are currently edited with CHANGEME. Please generate your own serial. (Reccommended SMBIOS : MacBookPro14,1 for macOS Monterey and below, MacBookPro15,1 for Ventura and above) 
 
 - This repo can be helpful for other HP Probook/Elitebook series notebooks (May Vary)
  
 ### Bios Configuration
-
 
 #### Enable
 
@@ -102,4 +101,4 @@ Create an issue and I'll try to help as many as I can
 - [Krazy-Killa](https://github.com/Krazy-Killa) for the Three finger gestures
 - [dortania](https://github.com/dortania) for its detailed guides
 - [Corpnewt](https://github.com/CorpNewt) for [USBMap](https://github.com/corpnewt/USBMap)
-- [Human79](https://github.com/Human79) for [Building This!](https://github.com/Human79/macOS-HP-Probook-430-G3-Resources)
+- [Human79](https://github.com/Human79) for Building This [Repo!!](https://github.com/Human79/macOS-HP-Probook-430-G3-Resources)
