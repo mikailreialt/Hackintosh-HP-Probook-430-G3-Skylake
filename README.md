@@ -1,7 +1,10 @@
-Resources for HP Probook 430 G3 to run macOS
+Resources for HP Probook 430 G3 to run macOS A.K.A Hackintosh For Hp Probook 430 G3
 ============================================
 
  ## Still In Maintenance! Update Only OC!! ##
+
+**Please Note That I Dont have much time for doing this.**
+
 
 - Bootloader version: Opencore 0.9.4
 - macOS version: macOS Ventura 13.4.1 (Can Be Sonoma)
@@ -19,7 +22,7 @@ Resources for HP Probook 430 G3 to run macOS
 - USB ports (You Maybe have to map a new one yourself!)
 - Internal Camera
 - Audio with mute button (Both internal speakers and Microphone) (CX20724)
-- Native Power Management/(Also with cpufriend)
+- Native Power Management (Also with cpufriend)
 - SMBus Controller
 - CPU Temperature Monitoring
 - Fan Speed Monitoring
@@ -36,9 +39,9 @@ Resources for HP Probook 430 G3 to run macOS
 
 | Component      | Brand                                                            |
 |----------------|------------------------------------------------------------------|
-| **CPU**        | `Intel Core i5-6200U ` 
+| **CPU**        | `Intel Core i5-6200U `                                           |
 | **iGPU**       | `Intel HD Graphics 520 `                                         |
-| **Audio**      | `Conexant 20724 - Layout ID 3`                                      |
+| **Audio**      | `Conexant 20724 - Layout ID 3`                                   |
 | **Ethernet**   | `Realtek RTL8111/8168`                                           |
 | **OS**         | `Ventura 13.4.1`
 
@@ -57,19 +60,19 @@ Resources for HP Probook 430 G3 to run macOS
 
 #### To Do
 - ~~Add pci devices in system information~~  *done*
-- ~~macOS Powerchime~~*done*
+- ~~macOS Powerchime~~ *done*
 - ~~Real Time Clock Loss (RTC)~~ *done*
 - ~~Battery Cycle count~~ *Fixed by updating to the Latest Bios*
 - ~~Fan Speed Monitoring~~ *done*
 - Let me know more 
 
 #### Benchmarks
-- Geekbench 5 (Not Up to Date!) [Multi-core and Single core](https://browser.geekbench.com/v5/cpu/8013906)
+- Geekbench 5 (May Not Up to Date!) [Multi-core and Single core](https://browser.geekbench.com/v5/cpu/8013906)
 
 #### Important !!!
 - In the config.plist, section `PlatformInfo > Generic`, the following fields are currently edited with CHANGEME. Please generate your own serial. (Reccommended SMBIOS : MacBookPro14,1 for macOS Monterey and below, MacBookPro15,1 for Ventura and above) 
 
-- This repo can be helpful for other HP Probook/Elitebook series notebooks (May Vary)
+- This repo can be helpful for other HP Probook/Elitebook series notebooks (May Vary!)
  
 ### Bios Configuration
 
