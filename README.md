@@ -5,6 +5,8 @@ Resources for HP Probook 430 G3 to run macOS A.K.A Hackintosh For Hp Probook 430
 
 **Please Note That I Dont have much time for doing this.**
 
+Jump to FAQ? [Here]()
+
 
 - Bootloader version: Opencore 0.9.4
 - macOS version: macOS Ventura 13.4.1 (Can Be Sonoma)
@@ -93,6 +95,13 @@ Resources for HP Probook 430 G3 to run macOS A.K.A Hackintosh For Hp Probook 430
 - Legacy boot
 - Wake when lid is opened
 - Wake on USB
+
+
+## FAQ
+
+USB have Problems?
+Download The new one [HERE!](https://github.com/mikailreialt/Hackintosh-HP-Probook-430-G3-Skylake/files/12547323/Archive.zip)
+Note: THERES TWO of usbmap. USE the new one if you at the latest MacOS and Vise Versa!
 
 
 #### Having Problems?
