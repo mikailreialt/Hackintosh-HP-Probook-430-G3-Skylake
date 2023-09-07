@@ -5,7 +5,7 @@ Resources for HP Probook 430 G3 to run macOS A.K.A Hackintosh For Hp Probook 430
 
 **Please Note That I Dont have much time for doing this.**
 
-Jump to FAQ? [Here]()
+Jump to FAQ? [Here](https://github.com/mikailreialt/Hackintosh-HP-Probook-430-G3-Skylake/blob/Master/README.md#faq)
 
 
 - Bootloader version: Opencore 0.9.4
